@@ -46,7 +46,7 @@ export const projects = [
   },
   {
     title: "Auto Tab Reload",
-    description: "A simple browser extension which allows you to automatically refresh specific tabs at customizable intervals.",
+    description: "A browser extension which allows you to automatically refresh specific tabs at customizable intervals.",
     image:tab,
     link: "https://addons.mozilla.org/en-US/firefox/addon/auto-tab-reload/",
     github: "https://github.com/GodOfZap/TabReloader",
